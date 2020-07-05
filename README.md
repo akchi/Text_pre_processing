@@ -11,4 +11,4 @@ The dataset <b>Urls.pdf</b> contains 200 URLs of published papers from a popular
 
 A preliminary analysis on the processed data is done and the results are stored in <b>stats.csv</b>.
 
-Please Note : For Pyhon 2, pdfminer needs to be installed and for Python 3 pdfmine.six needs to be installed (both through pip).
+Please Note : For Pyhon 2, pdfminer needs to be installed and for Python 3 pdfminer.six needs to be installed (both through pip).
