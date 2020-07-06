@@ -1,6 +1,6 @@
 ## Text Pre-Processing and Feature extraction
 
-This project aims to analyse textual data. Initially it downloads a set of published papers from a given list of URLs. The papers are then pre-processed after which, a set of features are retrieved from them. These features are nothing but a numerical representation of the paper which could be used in downstream modelling tasks.
+This project aims to analyse textual data. Initially it downloads a set of published papers from a given list of URLs. The papers are then pre-processed after which, a set of features are derived from them. These features are nothing but a numerical representation of the paper which could be used in downstream modelling tasks.
 
 The dataset <b>Urls.pdf</b> contains 200 URLs of published papers from a popular AI conference. The features extracted from the processed documents are stored in:
 
